@@ -2,10 +2,14 @@
 <h1 align="center">👋 Olá, eu sou Isnar Santana</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia!
+   🌍 Apaixonado por Tecnologia!
+</p>
 </p>
 <p align="center">
-  💻Cursando - Desenvolvimento de Sistemas-SENAI -Lauro de Freitas,Bahia.
+  Tech Leader | Full Stack 
+</p>
+<p align="center">
+  💻 Desenvolvimento de Sistemas-SENAI -Lauro de Freitas,Bahia.
 </p>
 <p align="center">
    Qual o proximo desafio?
